@@ -1,5 +1,4 @@
 # Program Sistem Kasir Sederhana (PBO)
-
 Repository ini berisi implementasi program **Sistem Kasir Sederhana** dalam bahasa pemrograman Java yang menerapkan konsep dasar **Pemrograman Berbasis Objek (Object-Oriented Programming / OOP)**.
 
 
