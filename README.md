@@ -2,7 +2,7 @@
 
 Repository ini berisi implementasi program **Sistem Kasir Sederhana** dalam bahasa pemrograman Java yang menerapkan konsep dasar **Pemrograman Berbasis Objek (Object-Oriented Programming / OOP)**.
 
----
+
 
 ## 📄 Struktur Kelas (Classes)
 
@@ -29,7 +29,6 @@ Kelas ini bertindak sebagai *sistem utama* yang mengelola alur transaksi pembeli
   - Menghitung uang kembalian berdasarkan pembayaran dari pelanggan.
   - Mencetak struk/nota transaksi penjualan.
 
----
 
 ## 🔄 Sistem Kerja Program
 
@@ -51,7 +50,6 @@ Kelas ini bertindak sebagai *sistem utama* yang mengelola alur transaksi pembeli
 5. **Output Struk Transaksi**:
    - Sistem menampilkan rincian akhir transaksi (Nama Barang, Jumlah, Harga Satuan, Pajak, Total Bayar, Uang Pembayaran, dan Kembalian) pada konsol.
 
----
 
 ## 🛠️ Cara Menjalankan Program
 
